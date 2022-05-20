@@ -7,6 +7,7 @@ Firewalls and Panorama).  The pan-os-python SDK is object oriented and mimics
 the traditional interaction with the device via the GUI or CLI/API.
 
 * Documentation: http://pan-os-python.readthedocs.io
+* https://pandevice.readthedocs.io/en/latest/genindex.html
 
 -----
 
